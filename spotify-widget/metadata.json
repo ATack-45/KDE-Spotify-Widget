@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "User"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Spotify miniplayer — shows currently playing track, controls, and playlist selector",
+        "Icon": "media-playback-start",
+        "Id": "org.kde.plasma.spotifywidget",
+        "Name": "Spotify Widget",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
