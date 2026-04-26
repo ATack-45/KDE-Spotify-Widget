@@ -1,3 +1,5 @@
+*Disclaimer: This repository has lots of AI generated code. part of this project is me expirimenting with usage of AI in software developmnet to learn its behavior, capabilities, and limitations so I can more effectively integrate AI into my development without loosing quality or understanding of the project*
+
 # KDE Spotify Widget
 
 A KDE Plasma 6 desktop widget that acts as a Spotify miniplayer — shows the currently playing track, album art, playback controls, and a playlist selector, without needing the Spotify desktop app open.
